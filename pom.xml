@@ -85,7 +85,7 @@
 
   <scm>
     <connection>scm:git:https://github.com/MiS27/aet-test-release.git</connection>
-    <developerConnection>scm:git:https://github.com:MiS27/aet-test-release.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/MiS27/aet-test-release.git</developerConnection>
     <tag>HEAD</tag>
     <url>https://github.com/Cognifide/aet</url>
   </scm>
