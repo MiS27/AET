@@ -882,6 +882,7 @@
               see http://maven.apache.org/plugins/maven-gpg-plugin/sign-mojo.html#keyname
               and http://maven.apache.org/maven-release/maven-release-plugin/prepare-mojo.html#arguments
             -->
+	    <homedir>${project.basedir}/keys</homedir>
             <keyname>${gpg.keyname}</keyname>
             <executable>gpg</executable>
           </configuration>
